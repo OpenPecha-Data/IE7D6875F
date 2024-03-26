@@ -1,0 +1,14 @@
+id: cafda47e68614a5db9b93d021878b551
+annotation_type: Language
+revision: '00001'
+annotations:
+  919367d6a630433d8e5c2344d883ff82:
+    span:
+      start: 0
+      end: 531
+    language: en
+  ae49ae7cb07740388b6ae91f8cf2d54b:
+    span:
+      start: 53621
+      end: 54152
+    language: en
